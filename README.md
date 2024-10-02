@@ -72,7 +72,7 @@ export default ({ env }) => ({
           defaultLevel: 2,
         },
       },
-      paragraph: : { inlineToolbar: true },
+      paragraph: { inlineToolbar: true },
       list: { inlineToolbar: true },
       checklist: { inlineToolbar: true },
       embed: null,
